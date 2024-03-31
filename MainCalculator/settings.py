@@ -152,18 +152,14 @@ SPECTACULAR_SETTINGS = {
     # OTHER SETTINGS
 }
 
-# CORS_ALLOWED_ORIGINS = [
-#     "http://localhost:3000",
-# ]
-
 CORS_ALLOWED_ORIGINS = [
-    "https://budgetcloud.ca",
+    "http://localhost:3000",
 ]
+
+# CORS_ALLOWED_ORIGINS = [
+#     "https://budgetcloud.ca",
+# ]
 
 CORS_ALLOW_ALL_ORIGINS = True
 
 
-
-# import os
-if 'WEBSITE_HOSTNAME' in os.environ: # Running on Azure
-    from .azure import *
