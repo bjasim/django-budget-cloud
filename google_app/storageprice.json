@@ -1,0 +1,6064 @@
+{
+  "01C0-1EAA-23AD": {
+    "sku_info": {
+      "name": "skus/01C0-1EAA-23AD",
+      "skuId": "01C0-1EAA-23AD",
+      "displayName": "Standard Storage Hong Kong",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-east2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/01C0-1EAA-23AD/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "0548-E341-C883": {
+    "sku_info": {
+      "name": "skus/0548-E341-C883",
+      "skuId": "0548-E341-C883",
+      "displayName": "Standard Storage Netherlands Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west4"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/0548-E341-C883/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "068D-BEA9-C4E7": {
+    "sku_info": {
+      "name": "skus/068D-BEA9-C4E7",
+      "skuId": "068D-BEA9-C4E7",
+      "displayName": "Standard Storage Melbourne",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "australia-southeast2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/068D-BEA9-C4E7/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "068E-FCD0-5EFC": {
+    "sku_info": {
+      "name": "skus/068E-FCD0-5EFC",
+      "skuId": "068E-FCD0-5EFC",
+      "displayName": "Standard Storage Las Vegas Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west4"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/068E-FCD0-5EFC/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "06E1-A7C9-1117": {
+    "sku_info": {
+      "name": "skus/06E1-A7C9-1117",
+      "skuId": "06E1-A7C9-1117",
+      "displayName": "Standard Storage Las Vegas",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west4"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/06E1-A7C9-1117/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "0D5D-6E23-4250": {
+    "sku_info": {
+      "name": "skus/0D5D-6E23-4250",
+      "skuId": "0D5D-6E23-4250",
+      "displayName": "Standard Storage US Multi-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "us-central1"
+            },
+            {
+              "region": "us-central2"
+            },
+            {
+              "region": "us-central3"
+            },
+            {
+              "region": "us-central4"
+            },
+            {
+              "region": "us-central5"
+            },
+            {
+              "region": "us-east1"
+            },
+            {
+              "region": "us-east4"
+            },
+            {
+              "region": "us-east5"
+            },
+            {
+              "region": "us-east7"
+            },
+            {
+              "region": "us-east8"
+            },
+            {
+              "region": "us-east9"
+            },
+            {
+              "region": "us-south1"
+            },
+            {
+              "region": "us-west1"
+            },
+            {
+              "region": "us-west2"
+            },
+            {
+              "region": "us-west3"
+            },
+            {
+              "region": "us-west4"
+            },
+            {
+              "region": "us-west5"
+            },
+            {
+              "region": "us-west6"
+            },
+            {
+              "region": "us-west7"
+            },
+            {
+              "region": "us-west8"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/0D5D-6E23-4250/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 26000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "0ECF-CFC4-2B4C": {
+    "sku_info": {
+      "name": "skus/0ECF-CFC4-2B4C",
+      "skuId": "0ECF-CFC4-2B4C",
+      "displayName": "Standard Storage Santiago",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "southamerica-west1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/0ECF-CFC4-2B4C/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 30000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "109D-AA78-91BA": {
+    "sku_info": {
+      "name": "skus/109D-AA78-91BA",
+      "skuId": "109D-AA78-91BA",
+      "displayName": "Standard Storage Warsaw",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-central2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/109D-AA78-91BA/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "126D-5D14-CE5B": {
+    "sku_info": {
+      "name": "skus/126D-5D14-CE5B",
+      "skuId": "126D-5D14-CE5B",
+      "displayName": "Standard Storage Turin",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west12"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/126D-5D14-CE5B/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "141D-1A1B-38E1": {
+    "sku_info": {
+      "name": "skus/141D-1A1B-38E1",
+      "skuId": "141D-1A1B-38E1",
+      "displayName": "Standard Storage Iowa Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-central1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/141D-1A1B-38E1/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "17FE-F1D5-27BA": {
+    "sku_info": {
+      "name": "skus/17FE-F1D5-27BA",
+      "skuId": "17FE-F1D5-27BA",
+      "displayName": "Standard Storage Finland Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-north1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/17FE-F1D5-27BA/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "1800-5978-6B82": {
+    "sku_info": {
+      "name": "skus/1800-5978-6B82",
+      "skuId": "1800-5978-6B82",
+      "displayName": "Standard Storage Milan Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west8"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/1800-5978-6B82/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "1845-1496-2891": {
+    "sku_info": {
+      "name": "skus/1845-1496-2891",
+      "skuId": "1845-1496-2891",
+      "displayName": "Standard Storage Tokyo",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-northeast1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/1845-1496-2891/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "1CAF-511D-F4EA": {
+    "sku_info": {
+      "name": "skus/1CAF-511D-F4EA",
+      "skuId": "1CAF-511D-F4EA",
+      "displayName": "Standard Storage South Carolina Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-east1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/1CAF-511D-F4EA/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "2253-704A-0050": {
+    "sku_info": {
+      "name": "skus/2253-704A-0050",
+      "skuId": "2253-704A-0050",
+      "displayName": "Standard Storage Sydney Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "australia-southeast1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/2253-704A-0050/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "233A-F5B5-11A9": {
+    "sku_info": {
+      "name": "skus/233A-F5B5-11A9",
+      "skuId": "233A-F5B5-11A9",
+      "displayName": "Standard Storage Osaka/Tokyo Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "asia-northeast1"
+            },
+            {
+              "region": "asia-northeast2"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/233A-F5B5-11A9/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 50600000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "2351-4D20-1EF6": {
+    "sku_info": {
+      "name": "skus/2351-4D20-1EF6",
+      "skuId": "2351-4D20-1EF6",
+      "displayName": "Standard Storage Toronto",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "northamerica-northeast2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/2351-4D20-1EF6/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "25CC-1111-816F": {
+    "sku_info": {
+      "name": "skus/25CC-1111-816F",
+      "skuId": "25CC-1111-816F",
+      "displayName": "Dual-Region Standard Class B Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/25CC-1111-816F/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 400000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "26E6-BB4A-0374": {
+    "sku_info": {
+      "name": "skus/26E6-BB4A-0374",
+      "skuId": "26E6-BB4A-0374",
+      "displayName": "Dual-Region Standard Tagging Class B Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          },
+          {
+            "category": "Tags-Bucket"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/26E6-BB4A-0374/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 400000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "2717-BEFE-3773": {
+    "sku_info": {
+      "name": "skus/2717-BEFE-3773",
+      "skuId": "2717-BEFE-3773",
+      "displayName": "Standard Storage Mumbai",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-south1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/2717-BEFE-3773/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "359D-6E48-7DEE": {
+    "sku_info": {
+      "name": "skus/359D-6E48-7DEE",
+      "skuId": "359D-6E48-7DEE",
+      "displayName": "Standard Storage Los Angeles Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/359D-6E48-7DEE/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "3A48-B586-F981": {
+    "sku_info": {
+      "name": "skus/3A48-B586-F981",
+      "skuId": "3A48-B586-F981",
+      "displayName": "Standard Storage Osaka",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-northeast2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/3A48-B586-F981/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "3B8A-1E0C-8D5B": {
+    "sku_info": {
+      "name": "skus/3B8A-1E0C-8D5B",
+      "skuId": "3B8A-1E0C-8D5B",
+      "displayName": "Region Standard Tagging Class A Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional"
+          },
+          {
+            "category": "Tags-Bucket"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/3B8A-1E0C-8D5B/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 5000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "3E50-C6B4-D105": {
+    "sku_info": {
+      "name": "skus/3E50-C6B4-D105",
+      "skuId": "3E50-C6B4-D105",
+      "displayName": "Standard Storage Warsaw Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-central2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/3E50-C6B4-D105/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "420D-7730-6B64": {
+    "sku_info": {
+      "name": "skus/420D-7730-6B64",
+      "skuId": "420D-7730-6B64",
+      "displayName": "Standard Storage Iowa/South Carolina Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "us-central1"
+            },
+            {
+              "region": "us-east1"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/420D-7730-6B64/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 44000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "4782-EF99-E0AC": {
+    "sku_info": {
+      "name": "skus/4782-EF99-E0AC",
+      "skuId": "4782-EF99-E0AC",
+      "displayName": "Standard Storage Dallas",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-south1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/4782-EF99-E0AC/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "4877-55BD-F3C4": {
+    "sku_info": {
+      "name": "skus/4877-55BD-F3C4",
+      "skuId": "4877-55BD-F3C4",
+      "displayName": "Standard Storage Delhi Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-south2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/4877-55BD-F3C4/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "4DBF-185F-A415": {
+    "sku_info": {
+      "name": "skus/4DBF-185F-A415",
+      "skuId": "4DBF-185F-A415",
+      "displayName": "Regional Standard Class A Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/4DBF-185F-A415/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD"
+                }
+              },
+              {
+                "startAmount": {
+                  "value": "5000"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 5000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "4EC6-27CA-3AA0": {
+    "sku_info": {
+      "name": "skus/4EC6-27CA-3AA0",
+      "skuId": "4EC6-27CA-3AA0",
+      "displayName": "Standard Storage Johannesburg",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "africa-south1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/4EC6-27CA-3AA0/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "5158-BEE6-C24D": {
+    "sku_info": {
+      "name": "skus/5158-BEE6-C24D",
+      "skuId": "5158-BEE6-C24D",
+      "displayName": "Standard Storage Paris Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west9"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/5158-BEE6-C24D/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "5213-5CDB-A0DB": {
+    "sku_info": {
+      "name": "skus/5213-5CDB-A0DB",
+      "skuId": "5213-5CDB-A0DB",
+      "displayName": "Standard Storage Northern Virginia Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-east4"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/5213-5CDB-A0DB/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "52BA-29B5-BE3B": {
+    "sku_info": {
+      "name": "skus/52BA-29B5-BE3B",
+      "skuId": "52BA-29B5-BE3B",
+      "displayName": "Dual-Region Standard Class A Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/52BA-29B5-BE3B/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 10000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "52CB-434A-1FE0": {
+    "sku_info": {
+      "name": "skus/52CB-434A-1FE0",
+      "skuId": "52CB-434A-1FE0",
+      "displayName": "Standard Storage Doha",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "me-central1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/52CB-434A-1FE0/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "5596-85FF-7F53": {
+    "sku_info": {
+      "name": "skus/5596-85FF-7F53",
+      "skuId": "5596-85FF-7F53",
+      "displayName": "Standard Storage Madrid",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-southwest1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/5596-85FF-7F53/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "59CF-0E01-97FE": {
+    "sku_info": {
+      "name": "skus/59CF-0E01-97FE",
+      "skuId": "59CF-0E01-97FE",
+      "displayName": "Standard Storage Seoul",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-northeast3"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/59CF-0E01-97FE/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "5CEA-0E42-9E49": {
+    "sku_info": {
+      "name": "skus/5CEA-0E42-9E49",
+      "skuId": "5CEA-0E42-9E49",
+      "displayName": "Standard Storage Paris",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west9"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/5CEA-0E42-9E49/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "5F7A-5173-CF5B": {
+    "sku_info": {
+      "name": "skus/5F7A-5173-CF5B",
+      "skuId": "5F7A-5173-CF5B",
+      "displayName": "Standard Storage Northern Virginia",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-east4"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/5F7A-5173-CF5B/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "65BD-111D-804F": {
+    "sku_info": {
+      "name": "skus/65BD-111D-804F",
+      "skuId": "65BD-111D-804F",
+      "displayName": "Dual-Region Standard Tagging Class A Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          },
+          {
+            "category": "Tags-Bucket"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/65BD-111D-804F/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 10000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "6B9B-6AB4-AC59": {
+    "sku_info": {
+      "name": "skus/6B9B-6AB4-AC59",
+      "skuId": "6B9B-6AB4-AC59",
+      "displayName": "Standard Storage Sao Paulo",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "southamerica-east1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/6B9B-6AB4-AC59/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 35000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "6CE2-71AC-7154": {
+    "sku_info": {
+      "name": "skus/6CE2-71AC-7154",
+      "skuId": "6CE2-71AC-7154",
+      "displayName": "Standard Storage Columbus",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-east5"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/6CE2-71AC-7154/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "76BA-5CAD-4338": {
+    "sku_info": {
+      "name": "skus/76BA-5CAD-4338",
+      "skuId": "76BA-5CAD-4338",
+      "displayName": "Standard Storage Singapore",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-southeast1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/76BA-5CAD-4338/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "7870-010B-2763": {
+    "sku_info": {
+      "name": "skus/7870-010B-2763",
+      "skuId": "7870-010B-2763",
+      "displayName": "Regional Standard Class B Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/7870-010B-2763/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD"
+                }
+              },
+              {
+                "startAmount": {
+                  "value": "50000"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 400000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "7BA5-145E-AA87": {
+    "sku_info": {
+      "name": "skus/7BA5-145E-AA87",
+      "skuId": "7BA5-145E-AA87",
+      "displayName": "Standard Storage Columbus Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-east5"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/7BA5-145E-AA87/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "7F2E-E019-951F": {
+    "sku_info": {
+      "name": "skus/7F2E-E019-951F",
+      "skuId": "7F2E-E019-951F",
+      "displayName": "Standard Storage Berlin",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west10"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/7F2E-E019-951F/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "8181-DCFE-5BFB": {
+    "sku_info": {
+      "name": "skus/8181-DCFE-5BFB",
+      "skuId": "8181-DCFE-5BFB",
+      "displayName": "Standard Storage Melbourne Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "australia-southeast2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/8181-DCFE-5BFB/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "819C-9150-B0D7": {
+    "sku_info": {
+      "name": "skus/819C-9150-B0D7",
+      "skuId": "819C-9150-B0D7",
+      "displayName": "Standard Storage Oregon Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/819C-9150-B0D7/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "89D8-0CF9-9F2E": {
+    "sku_info": {
+      "name": "skus/89D8-0CF9-9F2E",
+      "skuId": "89D8-0CF9-9F2E",
+      "displayName": "Standard Storage Netherlands",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west4"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/89D8-0CF9-9F2E/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "8A7F-592F-3FE7": {
+    "sku_info": {
+      "name": "skus/8A7F-592F-3FE7",
+      "skuId": "8A7F-592F-3FE7",
+      "displayName": "Standard Storage Finland",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-north1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/8A7F-592F-3FE7/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "8AE7-5BBD-8F38": {
+    "sku_info": {
+      "name": "skus/8AE7-5BBD-8F38",
+      "skuId": "8AE7-5BBD-8F38",
+      "displayName": "Multi-Region Standard Class B Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/8AE7-5BBD-8F38/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 400000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "8EF1-47E4-652E": {
+    "sku_info": {
+      "name": "skus/8EF1-47E4-652E",
+      "skuId": "8EF1-47E4-652E",
+      "displayName": "Standard Storage Madrid Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-southwest1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/8EF1-47E4-652E/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "90EE-B547-D622": {
+    "sku_info": {
+      "name": "skus/90EE-B547-D622",
+      "skuId": "90EE-B547-D622",
+      "displayName": "Standard Storage Toronto Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "northamerica-northeast2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/90EE-B547-D622/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "91B5-8ABC-06EC": {
+    "sku_info": {
+      "name": "skus/91B5-8ABC-06EC",
+      "skuId": "91B5-8ABC-06EC",
+      "displayName": "Standard Storage Zurich",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west6"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/91B5-8ABC-06EC/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "967B-9AE8-BB04": {
+    "sku_info": {
+      "name": "skus/967B-9AE8-BB04",
+      "skuId": "967B-9AE8-BB04",
+      "displayName": "Standard Storage Milan",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west8"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/967B-9AE8-BB04/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "96DE-B911-9FF7": {
+    "sku_info": {
+      "name": "skus/96DE-B911-9FF7",
+      "skuId": "96DE-B911-9FF7",
+      "displayName": "Standard Storage Dammam",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "me-central2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/96DE-B911-9FF7/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 30000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "9ADA-9AED-1B24": {
+    "sku_info": {
+      "name": "skus/9ADA-9AED-1B24",
+      "skuId": "9ADA-9AED-1B24",
+      "displayName": "Multi-Region Standard Class A Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/9ADA-9AED-1B24/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 10000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "9E97-0C1B-D763": {
+    "sku_info": {
+      "name": "skus/9E97-0C1B-D763",
+      "skuId": "9E97-0C1B-D763",
+      "displayName": "Standard Storage Salt Lake City",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west3"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/9E97-0C1B-D763/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "A5B2-DAB7-2D60": {
+    "sku_info": {
+      "name": "skus/A5B2-DAB7-2D60",
+      "skuId": "A5B2-DAB7-2D60",
+      "displayName": "Multi-Region Standard Tagging Class B Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Region"
+          },
+          {
+            "category": "Tags-Bucket"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/A5B2-DAB7-2D60/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 400000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "A703-5CB6-E0BF": {
+    "sku_info": {
+      "name": "skus/A703-5CB6-E0BF",
+      "skuId": "A703-5CB6-E0BF",
+      "displayName": "Standard Storage Belgium",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/A703-5CB6-E0BF/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "A78B-6FCE-180E": {
+    "sku_info": {
+      "name": "skus/A78B-6FCE-180E",
+      "skuId": "A78B-6FCE-180E",
+      "displayName": "Standard Storage Los Angeles",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/A78B-6FCE-180E/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "B219-7161-A1AF": {
+    "sku_info": {
+      "name": "skus/B219-7161-A1AF",
+      "skuId": "B219-7161-A1AF",
+      "displayName": "Standard Storage Delhi",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-south2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/B219-7161-A1AF/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "B596-759D-52C0": {
+    "sku_info": {
+      "name": "skus/B596-759D-52C0",
+      "skuId": "B596-759D-52C0",
+      "displayName": "Multi-Region Standard Tagging Class A Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Region"
+          },
+          {
+            "category": "Tags-Bucket"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/B596-759D-52C0/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 10000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "BA45-D7D7-2F8E": {
+    "sku_info": {
+      "name": "skus/BA45-D7D7-2F8E",
+      "skuId": "BA45-D7D7-2F8E",
+      "displayName": "Standard Storage Frankfurt Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west3"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/BA45-D7D7-2F8E/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "BAE2-255B-64A7": {
+    "sku_info": {
+      "name": "skus/BAE2-255B-64A7",
+      "skuId": "BAE2-255B-64A7",
+      "displayName": "Standard Storage Asia Regional",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "asia-east1"
+            },
+            {
+              "region": "asia-east2"
+            },
+            {
+              "region": "asia-northeast1"
+            },
+            {
+              "region": "asia-northeast2"
+            },
+            {
+              "region": "asia-northeast3"
+            },
+            {
+              "region": "asia-south1"
+            },
+            {
+              "region": "asia-southeast1"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/BAE2-255B-64A7/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "BB55-3E5A-405C": {
+    "sku_info": {
+      "name": "skus/BB55-3E5A-405C",
+      "skuId": "BB55-3E5A-405C",
+      "displayName": "Standard Storage London",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/BB55-3E5A-405C/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "BF41-972F-CC99": {
+    "sku_info": {
+      "name": "skus/BF41-972F-CC99",
+      "skuId": "BF41-972F-CC99",
+      "displayName": "Standard Storage Montreal Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "northamerica-northeast1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/BF41-972F-CC99/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "BF52-88CF-5EC3": {
+    "sku_info": {
+      "name": "skus/BF52-88CF-5EC3",
+      "skuId": "BF52-88CF-5EC3",
+      "displayName": "Standard Storage Mumbai Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-south1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/BF52-88CF-5EC3/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "C654-80AC-1A4C": {
+    "sku_info": {
+      "name": "skus/C654-80AC-1A4C",
+      "skuId": "C654-80AC-1A4C",
+      "displayName": "Standard Storage Singapore Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-southeast1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/C654-80AC-1A4C/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "CF63-3CCD-F6EC": {
+    "sku_info": {
+      "name": "skus/CF63-3CCD-F6EC",
+      "skuId": "CF63-3CCD-F6EC",
+      "displayName": "Standard Storage Sydney",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "australia-southeast1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/CF63-3CCD-F6EC/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "DAFD-61D2-339F": {
+    "sku_info": {
+      "name": "skus/DAFD-61D2-339F",
+      "skuId": "DAFD-61D2-339F",
+      "displayName": "Standard Storage Day0 (Alabama)",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-east7"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/DAFD-61D2-339F/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "DB0A-37C5-4E19": {
+    "sku_info": {
+      "name": "skus/DB0A-37C5-4E19",
+      "skuId": "DB0A-37C5-4E19",
+      "displayName": "Standard Storage Jakarta",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-southeast2"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/DB0A-37C5-4E19/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "DBAB-9C80-7C8F": {
+    "sku_info": {
+      "name": "skus/DBAB-9C80-7C8F",
+      "skuId": "DBAB-9C80-7C8F",
+      "displayName": "Region Standard Tagging Class B Operations",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Ops"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional"
+          },
+          {
+            "category": "Tags-Bucket"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_GLOBAL",
+        "globalMetadata": {}
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/DBAB-9C80-7C8F/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 400000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "count",
+              "unitDescription": "count",
+              "unitQuantity": {
+                "value": "1000"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "DBB0-F55B-E69D": {
+    "sku_info": {
+      "name": "skus/DBB0-F55B-E69D",
+      "skuId": "DBB0-F55B-E69D",
+      "displayName": "Standard Storage Taiwan Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "asia-east1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/DBB0-F55B-E69D/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "DF9C-5E19-EC27": {
+    "sku_info": {
+      "name": "skus/DF9C-5E19-EC27",
+      "skuId": "DF9C-5E19-EC27",
+      "displayName": "Standard Storage Dallas Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-south1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/DF9C-5E19-EC27/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "E466-8D73-08F4": {
+    "sku_info": {
+      "name": "skus/E466-8D73-08F4",
+      "skuId": "E466-8D73-08F4",
+      "displayName": "Standard Storage Montreal",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "northamerica-northeast1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/E466-8D73-08F4/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "E5F0-6A5D-7BAD": {
+    "sku_info": {
+      "name": "skus/E5F0-6A5D-7BAD",
+      "skuId": "E5F0-6A5D-7BAD",
+      "displayName": "Standard Storage US Regional",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "us-west1"
+            },
+            {
+              "region": "us-central1"
+            },
+            {
+              "region": "us-east1"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/E5F0-6A5D-7BAD/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD"
+                }
+              },
+              {
+                "startAmount": {
+                  "value": "5"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "E653-0A40-3B69": {
+    "sku_info": {
+      "name": "skus/E653-0A40-3B69",
+      "skuId": "E653-0A40-3B69",
+      "displayName": "Standard Storage Asia Multi-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "asia-east1"
+            },
+            {
+              "region": "asia-east2"
+            },
+            {
+              "region": "asia-northeast1"
+            },
+            {
+              "region": "asia-northeast2"
+            },
+            {
+              "region": "asia-northeast3"
+            },
+            {
+              "region": "asia-south1"
+            },
+            {
+              "region": "asia-south2"
+            },
+            {
+              "region": "asia-southeast1"
+            },
+            {
+              "region": "asia-southeast2"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/E653-0A40-3B69/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 26000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "E67D-A4FA-4CF3": {
+    "sku_info": {
+      "name": "skus/E67D-A4FA-4CF3",
+      "skuId": "E67D-A4FA-4CF3",
+      "displayName": "Standard Storage Finland/Netherlands Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "europe-north1"
+            },
+            {
+              "region": "europe-west4"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/E67D-A4FA-4CF3/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 44000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "EBB8-4CFD-EA34": {
+    "sku_info": {
+      "name": "skus/EBB8-4CFD-EA34",
+      "skuId": "EBB8-4CFD-EA34",
+      "displayName": "Standard Storage Tel Aviv",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "me-west1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/EBB8-4CFD-EA34/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 21000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "EC30-92F5-3843": {
+    "sku_info": {
+      "name": "skus/EC30-92F5-3843",
+      "skuId": "EC30-92F5-3843",
+      "displayName": "Standard Storage Phoenix",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west8"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/EC30-92F5-3843/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 20000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "EC40-8747-D6FF": {
+    "sku_info": {
+      "name": "skus/EC40-8747-D6FF",
+      "skuId": "EC40-8747-D6FF",
+      "displayName": "Standard Storage Europe Multi-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Multi-Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_MULTI_REGIONAL",
+        "multiRegionalMetadata": {
+          "regions": [
+            {
+              "region": "europe-central2"
+            },
+            {
+              "region": "europe-north1"
+            },
+            {
+              "region": "europe-north2"
+            },
+            {
+              "region": "europe-southwest1"
+            },
+            {
+              "region": "europe-west1"
+            },
+            {
+              "region": "europe-west10"
+            },
+            {
+              "region": "europe-west11"
+            },
+            {
+              "region": "europe-west12"
+            },
+            {
+              "region": "europe-west13"
+            },
+            {
+              "region": "europe-west14"
+            },
+            {
+              "region": "europe-west3"
+            },
+            {
+              "region": "europe-west4"
+            },
+            {
+              "region": "europe-west5"
+            },
+            {
+              "region": "europe-west7"
+            },
+            {
+              "region": "europe-west8"
+            },
+            {
+              "region": "europe-west9"
+            }
+          ]
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/EC40-8747-D6FF/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 26000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "F272-7933-F065": {
+    "sku_info": {
+      "name": "skus/F272-7933-F065",
+      "skuId": "F272-7933-F065",
+      "displayName": "Standard Storage Frankfurt",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Regional and Dual-Regional"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west3"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/F272-7933-F065/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 23000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "FDBF-9FEC-415F": {
+    "sku_info": {
+      "name": "skus/FDBF-9FEC-415F",
+      "skuId": "FDBF-9FEC-415F",
+      "displayName": "Standard Storage Belgium Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "europe-west1"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/FDBF-9FEC-415F/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 22000000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "FDFD-25D3-9C09": {
+    "sku_info": {
+      "name": "skus/FDFD-25D3-9C09",
+      "skuId": "FDFD-25D3-9C09",
+      "displayName": "Standard Storage Salt Lake City Dual-region",
+      "service": "services/95FF-2EF5-5EA1",
+      "productTaxonomy": {
+        "taxonomyCategories": [
+          {
+            "category": "GCP"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "GCS"
+          },
+          {
+            "category": "Storage"
+          },
+          {
+            "category": "Standard"
+          },
+          {
+            "category": "Dual-Region"
+          }
+        ]
+      },
+      "geoTaxonomy": {
+        "type": "TYPE_REGIONAL",
+        "regionalMetadata": {
+          "region": {
+            "region": "us-west3"
+          }
+        }
+      }
+    },
+    "prices_data": {
+      "prices": [
+        {
+          "name": "skus/FDFD-25D3-9C09/price",
+          "currencyCode": "USD",
+          "valueType": "rate",
+          "rate": {
+            "tiers": [
+              {
+                "startAmount": {
+                  "value": "0"
+                },
+                "listPrice": {
+                  "currencyCode": "USD",
+                  "nanos": 25300000
+                }
+              }
+            ],
+            "unitInfo": {
+              "unit": "GiBy.mo",
+              "unitDescription": "gibibyte month",
+              "unitQuantity": {
+                "value": "1"
+              }
+            },
+            "aggregationInfo": {
+              "level": "LEVEL_ACCOUNT",
+              "interval": "INTERVAL_MONTHLY"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
